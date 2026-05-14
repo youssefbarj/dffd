@@ -1,18 +1,20 @@
-# Soin de Visage — Contenu Module 12
+# SOIN DU VISAGE — Slide 15
 
-**Course:** Soin de visage  
-**Slide:** 12  
-**Live URL:** https://dffd-opal.edtechiecorp.com  
-**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
-
-## What this slide does
-
-Covers advanced facial care content in the Soin de visage (facial treatment) course, presenting technique details for the latter stages of a full facial protocol. This slide likely covers finishing steps such as mask removal, toning, and product application after the main treatment phase. Positioned near the end of the module, it consolidates the practical knowledge learners need to complete a professional facial session.
+**Course:** SOIN DU VISAGE
+**Slide:** 15
+**Live URL:** https://dffd-opal.edtechiecorp.com
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages
 
 ## Screenshot
 
-![dffd](./screenshot.png)
+![dffd](https://github.com/youssefbarj/dffd/raw/main/screenshot.png)
+
+## What this slide does
+
+This is an interactive slide embedded as an iframe inside Coassemble. See the screenshot above for a visual preview of the content.
 
 ## Usage
 
-This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+This slide is served via GitHub Pages at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+
+> **For E-Lumy's tech team:** After migrating this repo to your own GitHub account, re-enable GitHub Pages in Settings → Pages → Source: GitHub Actions. Then update the embed URL in Coassemble to your new deployment URL.
